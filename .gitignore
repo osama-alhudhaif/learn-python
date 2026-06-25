@@ -1,3 +1,5 @@
 .venv/
 Python/
 Python/
+.venv/
+__pycache__/
